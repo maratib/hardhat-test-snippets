@@ -22,7 +22,7 @@
   "publisher": "maratib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maratib/hardhat-developer-pack"
+    "url": "https://github.com/maratib/hardhat-test-snippets"
   },
   "engines": {
     "vscode": "^1.70.0"
